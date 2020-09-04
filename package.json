@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JAWeiss89/nodejsTesting/issues"
   },
-  "homepage": "https://github.com/JAWeiss89/nodejsTesting#readme"
+  "homepage": "https://github.com/JAWeiss89/nodejsTesting#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
