@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-testing",
+  "version": "1.0.0",
+  "description": "Project with the purpose of getting practice using jest, the nodejs testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAWeiss89/nodejsTesting.git"
+  },
+  "author": "Jorge Weiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAWeiss89/nodejsTesting/issues"
+  },
+  "homepage": "https://github.com/JAWeiss89/nodejsTesting#readme"
+}
